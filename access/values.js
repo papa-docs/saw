@@ -3,18 +3,18 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "15.04.2000"; // Дата рождения
-var fullname = "Метлiн Давид Арсенович" // ФИО
-var name = "Давид" // Имя
+var birthdate = "25.06.2005"; // Дата рождения
+var fullname = "Гур'янов Крiстiан Констянтинович" // ФИО
+var name = "Крiстiан" // Имя
 
 // Паспорт
-var passport_id = "003519034" // Номер паспорта
+var passport_id = "009395862" // Номер паспорта
 
 // КПП
 var kpp_id = "3872011238" // ИНН
 
 // Права
-var rights_valid_until = "29.11.2051" // Права "Дійсні до"
+var rights_valid_until = "29.11.2031" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 1242" // Права "Видав
 var rights_id = "BXM826411" // Права "Серія та номер""
