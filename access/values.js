@@ -17,7 +17,7 @@ var kpp_id = "3872011238" // ИНН
 var rights_valid_until = "21.01.2031" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 1242" // Права "Видав
-var rights_id = "MXE237611" // Права "Серія та номер""
+var rights_id = "MKE253261" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2023" // Сертификат "Дійсний до"
