@@ -8,16 +8,16 @@ var fullname = "Гур'янов Крiстiан Констянтинович" // 
 var name = "Крiстiан" // Имя
 
 // Паспорт
-var passport_id = "009395862" // Номер паспорта
+var passport_id = "009435862" // Номер паспорта
 
 // КПП
 var kpp_id = "3872011238" // ИНН
 
 // Права
-var rights_valid_until = "29.11.2031" // Права "Дійсні до"
+var rights_valid_until = "21.01.2031" // Права "Дійсні до"
 var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 1242" // Права "Видав
-var rights_id = "BXM826411" // Права "Серія та номер""
+var rights_id = "MXE237611" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "09.08.2023" // Сертификат "Дійсний до"
